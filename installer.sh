@@ -1,6 +1,6 @@
 #! /bin/bash
 
-chmod +x display
-mv display /bin
+chmod +x tid
+mv tid /bin
 
 echo "You're ready! <3"
